@@ -78,7 +78,7 @@ a booking references both by their id:
 }
 ```
 
-##Conclusion
+## Conclusion
 
 This assignment showed how the same project idea, managing bookings and staff for a photography studio, can be implemented a second way, as a REST API instead of a server-rendered web page. Building the same CRUD logic twice, once with JSF and Hibernate, once with Spring Boot and Postman, made the differences between the two approaches concrete rather than abstract: a REST API returns raw data for any client to consume, while JSF renders a full page directly. The layered structure (domain, repository, service, controller) also made clear why separating these concerns matters, each part of the code has exactly one job, which made adding a third entity, Booking, referencing the other two, straightforward once the first entity's pattern was established.
 
