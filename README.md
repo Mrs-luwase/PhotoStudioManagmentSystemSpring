@@ -2,7 +2,7 @@
 ## Applied Spring Boot REST API
 
 This project extends the Photography Studio Management System(originally built with JSF and Hibernate) by
-implementing full CRUD operations on three of its entities using **Spring Boot** and a
+implementing full CRUD operations on three of its entities using **Spring Boot** to build
 REST API tested with **Postman**.
 
 ## Entities implemented
@@ -85,7 +85,7 @@ This assignment showed how the same project idea, managing bookings and staff fo
 
 ## Video walkthrough
 
-My_link: //
+My_link: https://docs.google.com/videos/d/1JMr9PIYXc1GxKokhtKWbpEU-HuClGtEMtHrcY-NlE_A/play?usp=sharing
 
 
 
