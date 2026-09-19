@@ -1,4 +1,5 @@
-# Photography Studio Management System: Applied Spring Boot REST API
+# Photography Studio Management System Version2
+## Applied Spring Boot REST API
 
 This project extends the Photography Studio Management System(originally built with JSF and Hibernate) by
 implementing full CRUD operations on three of its entities using **Spring Boot** and a
