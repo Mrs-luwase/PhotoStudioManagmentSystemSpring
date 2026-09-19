@@ -1,7 +1,6 @@
-# Photography Studio Management System — Spring Boot REST API
+# Photography Studio Management System: Applied Spring Boot REST API
 
-This is Assignment 4 for the Web Technology course. It extends the Photography Studio
-Management System project (originally built with JSF and Hibernate in Assignment 3) by
+This project extends the Photography Studio Management System(originally built with JSF and Hibernate) by
 implementing full CRUD operations on three of its entities using **Spring Boot** and a
 REST API tested with **Postman**.
 
@@ -10,10 +9,10 @@ REST API tested with **Postman**.
 Out of the full entity set from the original project (Booking, StaffMember, Client,
 Equipment), three were selected for this assignment:
 
-- **Client** — a customer who books a shoot with the studio
-- **StaffMember** — a photographer, videographer, or other studio staff who can be
+- **Client** : A customer who books a shoot with the studio
+- **StaffMember** :A photographer, videographer, or other studio staff who can be
   assigned to a booking
-- **Booking** — a scheduled shoot, linked to one Client and one StaffMember
+- **Booking** : A scheduled shoot, linked to one Client and one StaffMember
 
 ## Tech stack
 
@@ -80,7 +79,7 @@ a booking references both by their id:
 
 ## Video walkthrough
 
-[Add your video link here]
+My_link: //
 
 ## Author
 
